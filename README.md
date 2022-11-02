@@ -11,4 +11,5 @@
 * step4: 切换到项目目录下  docker-compose -f docker-compose.yml up -d
 
 ### 简易效果如图
-![image](https://user-images.githubusercontent.com/31658398/199559323-402a0f3f-6fbb-4cb7-afc2-894831d512d5.png)
+![图片](https://user-images.githubusercontent.com/31658398/199573705-86c39279-064c-402c-bbc6-95b388acfbb6.png)
+
