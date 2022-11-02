@@ -1,0 +1,5 @@
+IP=0.0.0.0
+WP_VERSION=latest
+MYSQL_VERSION=latest
+DB_ROOT_PASSWORD=Rasengan
+DB_NAME=wordpress
