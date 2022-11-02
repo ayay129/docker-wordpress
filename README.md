@@ -1,4 +1,4 @@
-# Docker-compose 一键搭建wordpress服务
+# Docker-compose 一键搭建wordpress博客服务
 
 **依赖**
 * docker-ce
